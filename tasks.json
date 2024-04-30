@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "going to class",
+    "description": "important class",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "testing",
+    "description": "this is to test the routes again",
+    "status": false
+  },
+  {
+    "id": 3,
+    "title": "gupal",
+    "description": "bad at code ",
+    "status": false
+  },
+  {
+    "id": 4,
+    "title": "demopasj",
+    "status": false
+  },
+  {
+    "id": 5,
+    "title": "demopasj",
+    "description": "kshgdfuishfzsvcoisc",
+    "status": false
+  },
+  {
+    "id": 6,
+    "title": "gupal",
+    "description": "bad at code ",
+    "status": false
+  },
+  {
+    "id": 7,
+    "title": "gouuuur",
+    "description": "hmmm bujlam",
+    "status": true
+  },
+  {
+    "id": 8,
+    "title": "finaltest",
+    "description": "dekhi sob thikl kina ",
+    "status": true
+  },
+  {
+    "id": 9,
+    "title": "making tea",
+    "description": "i like tea ",
+    "status": true
+  }
+]
